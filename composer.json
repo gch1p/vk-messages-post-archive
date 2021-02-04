@@ -1,0 +1,15 @@
+{
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "simplehtmldom/simplehtmldom": "^2.0@RC",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-iconv": "*"
+  },
+  "config": {
+    "platform": {
+      "php": "7.1"
+    }
+  }
+}
